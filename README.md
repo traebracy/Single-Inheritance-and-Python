@@ -1,4 +1,4 @@
-# Single Inheritance and Python
+# Single Inheritance w/ Python
 
 This is a Python project focused on single inheritance in object-oriented programming.
 
